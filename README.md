@@ -1,6 +1,5 @@
 # __EXPENSE TRACKER__
 
-## Video Demo: <https://youtu.be/XXgztD9k4Kc>
 
 ### Description of the Project: _Expense Tracker_
 
